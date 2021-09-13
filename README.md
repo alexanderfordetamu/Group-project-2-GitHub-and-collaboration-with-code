@@ -4,8 +4,8 @@
          <title>HTMLFont size</title>    
       </head>    
       <body>      
-         <h1 style="color:red;font-size:40px;">Heading</h1>      
-         <p style="color:blue;font-size:18px;">This is demo text</p>    
+         <h1 style="color:red;font-size:40px;">Group 5</h1>      
+         <p style="color:blue;font-size:18px;">Meet the team!</p>    
       </body>
 </html>
 ![Hacker](https://user-images.githubusercontent.com/90582557/133009385-7573d4ad-741c-4421-aa53-99a05784645f.jpg)
