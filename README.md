@@ -73,6 +73,6 @@ I am most interested in the project management aspect of Technology Management. 
 A couple of fun facts about me are that I am a dual citizen. I hold both U.S. and Ireland passports. My family frequently travels between the two countries but we haven't done that much with the pandemic around. Also, I enjoy collecting vinyl records. Some of my favorite artists include David Bowie, Bruce Springsteen, Stevie Nicks, and Dusty Springfield.</p>    
    </body>
 
-![profile pic](https://user-images.githubusercontent.com/90581187/133010854-ca158b84-33f9-4dce-bf1a-c833d04e44c8.jpg)
 
 </html>
+![profile pic](https://user-images.githubusercontent.com/90581187/133010854-ca158b84-33f9-4dce-bf1a-c833d04e44c8.jpg)
