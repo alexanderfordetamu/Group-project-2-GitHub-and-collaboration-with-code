@@ -3,8 +3,8 @@
          <title>HTMLFont size</title>    
       </head>    
       <body>      
-         <h1 style="color:red;font-size:40px;">Group 5</h1>      
-         <p style="color:blue;font-size:18px;">Meet the team!</p>    
+         <h1 style="color:red;font-size:60px;">Group 5</h1>      
+         <p style="color:blue;font-size:25px;">Meet the team!</p>    
       </body>
 </html>
 
