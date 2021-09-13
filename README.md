@@ -16,8 +16,9 @@
          <title>HTMLFont size</title>    
       </head>    
       <body>      
-         <h1 style="color:red;font-size:40px;">Kelly</h1>      
-         <p style="color:blue;font-size:18px;">I'm a senior Technology Management major with minors in Cybersecurity and Business.</p>    
+         <h1 style="color:white;font-size:40px;">Kelly</h1>      
+         <p style="color:purple;font-size:18px;">I'm a senior Technology Management major with minors in Cybersecurity and Business.</p>    
+         <p style="color:purple;font-size:18px;">"I was born in the Philippines and moved to Txas at 6 years old. I've also visited other countries like Japan, Mexico and the states Californiaaaaa, Florida, Nevada, South Carolinaaaaa.
       </body>
 </html>
 
