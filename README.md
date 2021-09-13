@@ -80,7 +80,7 @@
       </head>    
       <body>      
          <h1 style="color:blue;font-size:40px;">Alexander</h1>      
-         <p style="color:white;font-size:18px;">My name is Alexander Forde. I was born and raised in Austin, TX. I am targeting my internship search for the Spring 2022 semester, hopefully staying within the Austin area. However, as a prospective graduate of the Technology Management program, I would be open to any of the Texas metropolitan areas since tech seems to cluster around the cities.
+         <p style="color:white;font-size:18px;">My name is Alexander Forde. I was born and raised in Austin, TX. I am targeting my internship search for the Spring 2022 semester, hopefully staying within the Austin area. However, as a prospective graduate of the Technology Management program, I would be open to any of the Texas metropolitan areas since tech seems to cluster around the cities. I HATE A&M!!!!
 
 I am most interested in the project management aspect of Technology Management. I recently took EHRD 477, which introduced me to basic project management approaches. It is a very exciting role to play in the technology industry and I hope to fully pursue it post graduation. Currently, I am focused on studying for my Certified Associate in Project Management (CAPM) exam. I believe earning the CAPM will be a solid short term career goal and will help direct me towards my long term goal of applying for the PMP certification.
          
