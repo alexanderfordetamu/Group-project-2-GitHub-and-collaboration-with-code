@@ -27,9 +27,9 @@
       </head>    
       <body>      
          <h1 style="color:red;font-size:40px;">Matthew</h1>      
-         <p style="color:green;font-size:18px;">I Am a Technology Management Major</p><br></br>
-         <p style="color:green;font-size:18px;">I love the game Path of Exile. I even love it so much I have managed to rack up nearly 3,000 hours of gameplay within tthe last 2 years.</p><br></br>
-         <p style="color:green;font-size:18px;">I Below is the rarest currency drop in Path of Exile that is even possible. A Mirror of Kalandra. I was playing during an online class when this happened and I was freaking out with my camera still on.</p><br></br>
+         <p style="color:green;font-size:18px;">I Am a Technology Management Major</p><br>
+         <p style="color:green;font-size:18px;">I love the game Path of Exile. I even love it so much I have managed to rack up nearly 3,000 hours of gameplay within the last 2 years.</p><br>
+         <p style="color:green;font-size:18px;">I Below is the rarest currency drop in Path of Exile that is even possible. A Mirror of Kalandra. I was playing during an online class when this happened and I was freaking out with my camera still on.</p><br>
       </body>
 </html>
 ![Capture](https://user-images.githubusercontent.com/82607908/133010724-38e14500-3358-4fb2-a944-1d61d0c4519f.PNG)
