@@ -16,7 +16,7 @@
       </head>    
       <body>      
          <h1 style="color:red;font-size:40px;">Kelly</h1>      
-         <p style="color:blue;font-size:18px;">This is demo text</p>    
+         <p style="color:blue;font-size:18px;">I'm a senior Technology Management major with minors in Cybersecurity and Business.</p>    
       </body>
 </html>
 ![MIRROR!](https://user-images.githubusercontent.com/82607908/133009701-bab58643-dc73-4e19-a021-64d415e1cf0a.PNG)
