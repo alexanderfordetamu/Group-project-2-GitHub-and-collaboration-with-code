@@ -1,4 +1,4 @@
- <html>    
+<html>    
       <head>      
          <title>HTMLFont size</title>    
       </head>    
@@ -11,7 +11,7 @@
 
    
    
-   <html>    
+<html>    
       <head>      
          <title>HTMLFont size</title>    
       </head>    
@@ -25,7 +25,7 @@
 
   
   
-  <html>    
+<html>    
       <head>      
          <title>HTMLFont size</title>    
       </head>    
@@ -38,7 +38,6 @@
 </html>
 ![Capture](https://user-images.githubusercontent.com/82607908/133010724-38e14500-3358-4fb2-a944-1d61d0c4519f.PNG)
 ![MIRROR!](https://user-images.githubusercontent.com/82607908/133009701-bab58643-dc73-4e19-a021-64d415e1cf0a.PNG)
-
 
 
 
@@ -55,7 +54,7 @@
 
    
    
-   <html>    
+<html>    
       <head>      
          <title>HTMLFont size</title>    
       </head>    
@@ -69,7 +68,7 @@
 
   
   
-  <html>    
+<html>    
       <head>      
          <title>HTMLFont size</title>    
       </head>    
