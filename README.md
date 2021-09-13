@@ -49,7 +49,7 @@
       </head>    
       <body>      
          <h1 style="color:red;font-size:40px;">Marco</h1>      
-         <p style="color:yellow;font-size:18px;">Howdy! My name is Marco Ramirez and I am a senior Technology Management major with minors in both Mathmatics and Business! </p>
+         <p style="color:yellow;font-size:18px;">Howdy! My name is Marco Ramirez and I am a senior Technology Management major with minors in both Mathematics and Business! </p>
          <p style="color:yellow;font-size:18px;">I was born and raised in Corpus Christi, Texas, and my interest in technology really stems from my love for LEGOs! It has always been a dream of mine to visit LEGOLAND California, so maybe I will fulfill that promise to myself soon. </p>
          <p style="color:yellow;font-size:18px;">In my free time, I like to workout and play video games. The game I play religiously is Apex Legends. I have always been a fan of first person shooters since COD MW2 days, so having that aspect as well as differing character abilities is what I love about the game! Before the current pandemic, I would be a regular at the Rec playing pickup basketball. I am very competitive person by nature, so I cherish a good game of fundamental basketball. Pictured is my last notable victim of my killer crossover.  </p>
       </body>
