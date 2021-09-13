@@ -18,7 +18,7 @@
       <body>      
          <h1 style="color:white;font-size:40px;">Kelly</h1>      
          <p style="color:purple;font-size:18px;">I'm a senior Technology Management major with minors in Cybersecurity and Business.</p>    
-         <p style="color:purple;font-size:18px;">"I was born in the Philippines and moved to Txas at 6 years old. I've also visited other countries like Japan, Mexico and the states Californiaaaaa, Florida, Nevada, South Carolinaaaaa.</p>
+         <p style="color:purple;font-size:18px;">"I was born in the Philippines and moved to Txas in 2006. I've also visited other countries like Japan, Mexico and the states Californiaaaaa, Florida, Nevada, and South Carolinaaaaa.</p>
          <p style="color:purple;font-size:18px;">"I own two dogs, a shih tzu and a yorkie named Miku and Maya.</p>
       </body>
 </html>
