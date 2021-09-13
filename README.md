@@ -3,8 +3,8 @@
          <title>HTMLFont size</title>    
       </head>    
       <body>      
-         <h1 style="color:red;font-size:60px;">Group 5</h1>      
-         <p style="color:blue;font-size:25px;">Meet the team!</p>    
+         <h1 style="color:red;font-size:40px;">Group 5</h1>      
+         <p style="color:blue;font-size:18px;">Meet the team!</p>    
       </body>
 </html>
 
@@ -21,6 +21,8 @@
          <p style="color:purple;font-size:18px;">"I was born in the Philippines and moved to Txas at 6 years old. I've also visited other countries like Japan, Mexico and the states Californiaaaaa, Florida, Nevada, South Carolinaaaaa.</p>
       </body>
 </html>
+![Ring_08-04-2021-19-38-47](https://user-images.githubusercontent.com/63130172/133013497-bdee36d4-7d3b-42c6-a6ff-6be7358e4207.JPG)
+
 
 
   
@@ -59,7 +61,7 @@
          <title>HTMLFont size</title>    
       </head>    
       <body>      
-         <h1 style="color:green;font-size:40px;">Zach Keek</h1>      
+         <h1 style="color:green;font-size:40px;">Zach Keck</h1>      
          <p style="color:orange;font-size:18px;">Hey my name is Zach Keck, I am a seniorrrrr here at Texas A&M University and I am majoring in Technology Management. I chose this major because of my interest in technlogy and the broadness of the field, I like how this major let's me choose a wide variety of jobs. A few things about me are that I love A&M, I like working out, and the outdoors. I have interests in just about everything so I am very open minded. I built a computer when I was 14 that I still use today. I wish graphics cards were not so expensive today. Thank you for reading a few things about me, down below is the picture of me.</p>    
       </body>
 </html>
